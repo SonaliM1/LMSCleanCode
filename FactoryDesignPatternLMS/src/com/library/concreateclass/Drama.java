@@ -16,7 +16,7 @@ public class Drama implements searchInterface {
 		
 		System.out.println("search For Drama");
 		
-		List<Book> dramaBookList =new ArrayList<>();
+		List<Book> dramaBookList = new ArrayList<>();
 		 Book b1=new Book(1, "XYZ","Horror");
 			Book b2=new Book(2, "ABC","Drama");
 			Book b3=new Book(3, "LMN","Adventure");
